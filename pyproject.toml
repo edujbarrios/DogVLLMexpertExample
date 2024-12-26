@@ -1,0 +1,24 @@
+[project]
+name = "dogvllmexpert"
+version = "0.1.0"
+description = "Advanced AI-powered platform for comprehensive canine image analysis and intelligent breed insights"
+authors = [
+    {name = "Eduardo J. Barrios", email = "contact@edujbarrios.com"}
+]
+homepage = "https://edujbarrios.com"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=0.5.0",
+    "llava-torch>=1.2.2.post1",
+    "numpy>=1.26.4",
+    "pillow>=10.4.0",
+    "scikit-learn>=1.2.2",
+    "sentence-transformers>=3.0.1",
+    "streamlit>=1.41.1",
+    "torch>=2.0.1",
+    "torchvision>=0.15.2",
+    "transformers>=4.36.2",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cpu"
