@@ -1,6 +1,4 @@
-# DogVLLMexpertExample
-
-expert 🐕 
+# DogVLLMexpertExample 🐕 
 
 [English](#english) | [Español](#español)
 
