@@ -3,7 +3,7 @@ name = "dogvllmexpert"
 version = "0.1.0"
 description = "Advanced AI-powered platform for comprehensive canine image analysis and intelligent breed insights"
 authors = [
-    {name = "Eduardo J. Barrios", email = "contact@edujbarrios.com"}
+    {name = "Eduardo J. Barrios", email = "eduardojbarriosgarcia@gmail.com"}
 ]
 homepage = "https://edujbarrios.com"
 requires-python = ">=3.11"
